@@ -1,0 +1,6 @@
+{
+  "name": "UX Ethics Auditor",
+  "description": "Forensic multimodal dark pattern inspector and cyber-safety compliance auditor for user interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
